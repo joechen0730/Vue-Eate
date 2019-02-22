@@ -1,7 +1,7 @@
 
  # Vue-Eate
 - <a href="https://joechen0730.github.io/Vue-Eate/" target="blank"><B>Vue-Eate</B> (RWD)</a> <BR>
-  <a href="https://joechen0730.github.io/Vue-Eate/" target="blank"><img src="home-tw.jpg" width="700" height="500"><BR></a> <BR>
+  <a href="https://joechen0730.github.io/Vue-Eate/" target="blank"><img src="home-tw.jpg" width="900" height="500"><BR></a> <BR>
   ⌞ 使用 Vue cli3 ，並用 i18n 支持多語言（中 / 英) 。<BR>
   ⌞ 使用 Vue cli3 ，並用 Vuex 將資料集中管理，並透過 vue-router 去偵測路由狀況獲取資料。<BR>
   ⌞ 透過 localStoge 將資料儲存在本地端網頁中。<BR>
