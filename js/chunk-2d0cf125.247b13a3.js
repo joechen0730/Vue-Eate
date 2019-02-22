@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0cf125"],{"61c7":function(t,n,e){"use strict";e.r(n);var u=function(){var t=this,n=t.$createElement,e=t._self._c||n;return e("ul",{staticClass:"statement-infoList"},[e("li",[t._v(t._s(t.$t("__AboutPage_about_info_1")))])])},o=[],s={name:"About"},a=s,i=e("2877"),l=Object(i["a"])(a,u,o,!1,null,null,null);l.options.__file="About.vue";n["default"]=l.exports}}]);
+//# sourceMappingURL=chunk-2d0cf125.247b13a3.js.map
