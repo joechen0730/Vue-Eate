@@ -9,6 +9,7 @@
   ⌞ 動態偵測網址切換後可直接更改語系(tw or en) <BR>
   ⌞ 匯率兌換時，透過參數將值放置網址並且編碼傳送至兌換頁面，重整後解析一樣可得相同數值<BR>
   ⌞ 使用 Google Analytics 來追蹤網站成效，並且設定轉換率確認使用者停留頁面等等事件<BR>
+  ⌞ 使用 vue-router 製作 SPA 網站 <BR>
    <img src="ga.jpg" width="900" height="500"><BR>
    <img src="ga2.jpg" width="900" height="500"><BR>
   ⌞ 與<a href="https://github.com/Mix-Liten" target="blank"> Mix-Liten </a>好友透過 Git 共同完成。
